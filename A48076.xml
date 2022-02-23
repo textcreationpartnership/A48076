@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Rotterdam, touching the Scotch affaires, since November, 1650</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48076</idno>
+            <idno type="STC">Wing L1500</idno>
+            <idno type="STC">ESTC R222062</idno>
+            <idno type="EEBO-CITATION">99833300</idno>
+            <idno type="PROQUEST">99833300</idno>
+            <idno type="VID">37776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37776)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2173:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Rotterdam, touching the Scotch affaires, since November, 1650</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[Rotterdam :</pubPlace>
+                  <date>1/2 March. 1650 [i.e. 1651]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date and place of publication from end of text; year given according to Lady Day dating.</note>
+                  <note>Copy stained.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Government --  History --  17th century.</term>
+               <term>Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:37776:1"/>
+            <pb n="1" facs="tcp:37776:1" rendition="simple:additions"/>
+            <head>A Letter from <hi>Rotterdam,</hi> touching the <hi>Scotch</hi> Affaires, ſince <hi>November, 1650.</hi>
+            </head>
+            <p>
+               <hi>SIR,</hi> Since my Arrivall heere, it hath beene my good hap to gaine a cleare confirmation of the truth of that Aſſertion, that it never was in the intentions of the Presbyterian Scots to have <hi>Charles</hi> the 2. for their King, and that you may al<g ref="char:EOLhyphen"/>ſo bee confirmed in the Aſſurance thereof, I ſhall pre<g ref="char:EOLhyphen"/>ſume to offer to your more ſerious conſideration this ſhort view of ſome of their Actions ſince <hi>November</hi> laſt.</p>
+            <p>As firſt, the ſtrange rendition of the Caſtle of <hi>Edenbo<g ref="char:EOLhyphen"/>rough,</hi> the ſtrongeſt hold in all the Kingdome; whether out of cowardice or covetouſneſſe, I diſpute not; ſure I am out of no neceſſity, the ſtores of Proviſions, Armes, and Ammunition (if Relations bee true) being almoſt incredible. Then the many ſecret Plots and Deſignes they have put in practice, for the more cleanely betray<g ref="char:EOLhyphen"/>ing into the Enemies hand, the Towne and Caſtle of <hi>Sterling,</hi> and <hi>Burnt Eland,</hi> thoſe two principall Keies or faſtneſſes of <hi>Fife</hi> and <hi>Stragherne,</hi> all which God in mercy hath hitherto fruſtrated, to the Enemies diſ<g ref="char:EOLhyphen"/>heartning, and the Actors confuſion. I ſhall not neede to mention how heartily the Presbyterian entertained <hi>Ker</hi> and <hi>Stragherns</hi> Declaration, with thoſe in the Weſt of <hi>Scotland,</hi> though founded upon Independent Princi<g ref="char:EOLhyphen"/>ples, and purporting little leſſe then renunciation of Mo<g ref="char:EOLhyphen"/>narchy: Or what cunning tricks they uſed for putting off the Kings Coronation, ambitious ſtill to keepe the Reines of Government in their owne hands, and curbe
+<pb n="2" facs="tcp:37776:2" rendition="simple:additions"/>His Sacred Majeſty in His Exerciſe of his Regall Pow<g ref="char:EOLhyphen"/>er, by enſlaving Him to the unreaſonable Articles hee was forced to condiſcend unto at <hi>Breda?</hi> Or how vio<g ref="char:EOLhyphen"/>lently they oppoſed all Agreement with the Royall Par<g ref="char:EOLhyphen"/>ty, openly proteſting againſt it, and ſecretly fomenting Diviſions amongſt them, till through Gods bleſſing, in deſpite of all their Machinations, Loyaltie prevailed, and increaſed ſo faſt, as in a ſhort ſpace to overpower thoſe Machivillian Kirk-lings; whoſe guilt of conſci<g ref="char:EOLhyphen"/>ence, hourely purſued with juſt feares, affrighted them quickly to decline His Majeſties Mercy and Goodneſſe, and ſeeke for ſhelter and protection from the Enemies of their King and Countrie. As for particulars I referre you to the weekely Newes-Bookes; hee that will but waſte ſo much time and paines as to peruſe thoſe Pam<g ref="char:EOLhyphen"/>phlets, may ſoone obſerve all theſe, and many more, and more miſchievous Presbyterian Practices, then heere are related.</p>
+            <p>But not to inſiſt on ſuch perty proofes; a more con<g ref="char:EOLhyphen"/>vincing Argument wee have in that right Presbyterian, and (without offence to ſo Sacred a Solemnity bee it ſpoken) ſordid maner of Crowning their King on New-Years Day, 1650. For whether wee looke upon it in a<g ref="char:EOLhyphen"/>ny of thoſe Circumſtances of Time, Place, Perſons, or Ceremonies, the Presbyterian baſeneſſe is moſt cleare<g ref="char:EOLhyphen"/>ly to be diſcerned thereby.</p>
+            <p>As for the Time, the Nobility, Gentry, and Commons of that Kingdome, having long groaned under the cruell oppreſſions of Kirke and State-Committees, were ready to ſhake off that Iron Yoke, and recover againe their Ancient Lawes and Liberties, under the Golden and Gentle Scepter of Monarchy, wherein their Forefathers
+<pb n="3" facs="tcp:37776:2" rendition="simple:additions"/>for many generations had happily enjoyd ſo great Peace and plenty; this the Presbyterian perceiving, for feare leſt the Royall Party ſhould grow ſtrong enough to ſet the Crowne on the Kings Head without them, they re<g ref="char:EOLhyphen"/>ſolve to doe it themſelves, making this advantage of the time, ſtill to enſnare His Sacred Majeſty with the bonds of the Covenant, and limit His Royal Prerogative, ere the Nobility and Gentry could have free acceſſe to Court, or the Army come to a Generall Randevouz.</p>
+            <p>The Place: the moſt Prophane and Sacrilegious place in all Chriſtendome, a dining Chamber, (no Conſecra<g ref="char:EOLhyphen"/>ted Chappell) where the Belly is the onely God that is worſhipped: To ſhew the Presbyterians that are ſo ſtiffe in obſerving of difference of Time, the Sanctifying of the Sabboth, <hi>&amp;c.</hi> make no difference of places, but a Barne, a Stable, or a Dining Roome, is a place good e<g ref="char:EOLhyphen"/>nough for their Solemn Aſſemblies.</p>
+            <p>Then the moſt Sacrilegious Place: 'Tis confeſſed, the Abbey and Church of <hi>Schone</hi> hath beene famous all the World over, aſwell for the Marble Chaire, wherein the Kings of <hi>Scotland</hi> Anciently had their Crownes ſet on their Heads; as for the Monuments and Tombes of thoſe Pious Princes, whoſe Sacred Duſt was there reli<g ref="char:EOLhyphen"/>giouſly preſerved; but ſince Sacriledge entred the World under the cloake of Reformation, that Abbey hath been diſſolved, and out of the Ruines of that Beau<g ref="char:EOLhyphen"/>teous Church, was erected this Palace of <hi>Schone,</hi> the Walls built with the Stones of that Church and Abbey, the Chimney-pieces and Pavements framed out of the Marble Tombes and Grave Stones of thoſe dead Kings. This His Majeſties Father (of Bleſſed Memory) percei<g ref="char:EOLhyphen"/>ving when hee was invited to a Feaſt by the Nobleman
+<pb n="4" facs="tcp:37776:3"/>that is owner of that houſe, Hee refuſed to eate and drinke in ſo Sacrilegious a place: Yet this was picked out by the Presbyterian for the ſolemnizing <hi>Charles</hi> the Seconds Coronation, as if betimes they would ſeaſon him with that curſed thirſt after things dedicated to Holy Uſes, and inveſt the Crowne with the ſpoiles of the Churches Patrimony, which his Bleſſed Father ſo much abhorred,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ap. 4.</note> that himſelfe profeſſed he had rather live of the Churches Almes, as ſome of his Predeceſſors had done, then violently take the bread out of Bi<g ref="char:EOLhyphen"/>ſhops and Miniſters mouthes; and by ſuch Sacrilegious Rapines, as the Covenanting Presbyters gaped after, bring a brand and curſe upon His Poſterity by robbing God and his Church of what the bounty of His Ance<g ref="char:EOLhyphen"/>ſtors had enriched it withall, for encouragement of Learning and Religion.</p>
+            <p>The Perſons and ſolemnities likewiſe were ſuitable: No Biſhop to annoint him, and pronounce the benedi<g ref="char:EOLhyphen"/>ction at the ſetting the Crowne on his Head, nor Noble<g ref="char:EOLhyphen"/>man to preſent the <hi>Regalia;</hi> though for theſe thouſand yeares the like preſident never was known in <hi>Scotland;</hi> where the Nobility ever counted it an Enſigne of Ho<g ref="char:EOLhyphen"/>nour and loyaltie to attend their Kings Coronation, and behold his ſacred Perſon inaugurated with all due ſo<g ref="char:EOLhyphen"/>lemnities: his Anointing and benediction to be perfor<g ref="char:EOLhyphen"/>med by a Biſhop, as in all other parts of the Chriſtian world, Kings have been ever ſince Chriſtianity prevaild over the Thrones of Princes; not without a ſacred pat<g ref="char:EOLhyphen"/>tern of <hi>Samuels</hi> Anoynting <hi>Saul</hi> and <hi>David</hi> by Gods own appointme<g ref="char:cmbAbbrStroke">̄</g>t. And in the Age by-paſt this Ceremony was thought ſo Religiouſly neceſſary, that <hi>John Knox</hi> with his contemporary Presbyters (I am ſure no friends to
+<pb n="5" facs="tcp:37776:3"/>needles Ceremonies) ſent purpoſely for the Biſhop of <hi>Aberdeen</hi> (who had received his Conſecration from the Pope) to Annoint King <hi>James,</hi> even in his Cradle, that his Coronation might not be defective in ſuch a Cere<g ref="char:EOLhyphen"/>mony, whoſe name and Authority they abus'd, not on<g ref="char:EOLhyphen"/>ly to oppoſe, but to impriſon Queen <hi>Mary</hi> his mother, and force her to reſigne up the Crowne into her Sons hands, that ſo themſelves (the prevailing Faction) might Rule and Raigne as Kings during his minority. Thus whileſt it ſerves their owne ends, the Presbyter is ſtiffe for this Ceremony in the Grandfathers daies, but now as regardleſſe of it in the Grandchild: <hi>Charles</hi> the 2. is to bee Crown'd without any ſuch Royall or Religi<g ref="char:EOLhyphen"/>ous Ceremony; upon deſigne doubtleſſe, as well to de<g ref="char:EOLhyphen"/>veſt him of that <hi>Jus Sanguinis,</hi> that hereditary right of Succeſſion, which doth immortallize Princes here on Earth, and make their Names and Office (like his whoſe Vicegerents they are, and whoſe Image they beare) eternall to all generations: as alſo to render him the peoples Creature and ſervant, as if his Crowne and dignity had been the peoples gift, and not his owne by Birthright; as if his Power had beene derivative from his Subjects, and not Gods Ordinance, and as naturall o<g ref="char:EOLhyphen"/>ver them, as a Fathers over his children: in a word, that his firſt Title might be <hi>Carolus Electione Populi:</hi> not <hi>Carolus Dei Gratia.</hi> For this purpoſe they had prepared three Lay-Kirk-men, and three Kirk-Lay-men to per<g ref="char:EOLhyphen"/>forme the Office of the Biſhop; my meaning is, three Presbyters of their own Brooding under their Claſſes, not of Epiſcopall Ordination; and three Ruling Elders; theſe laſt acting their parts in a double capacity: for firſt they ſtand for Repreſenters of the People, and
+<pb n="6" facs="tcp:37776:4" rendition="simple:additions"/>Commiſſioners of the Repreſentative Body, the Parlia<g ref="char:EOLhyphen"/>ment; and next for Aſſiſting Elders of the Kirke.</p>
+            <p>Thus Presbytery, which was ever good at depoſing and uſurping upon Kings, hath at laſt (and may it prove the laſt) ſet the Crowne on their Kings Head, more in mockery (if without an ill Omen I may borrow that fi<g ref="char:EOLhyphen"/>militude, as the Souldiers Crown'd our Saviour a little before his Crucifixion;) than out of any true intention: For the Crowne they put upon his Head, though it were of gold, yet was it debas'd by the Covenant, and rob'd of the choiceſt Flowers wherewith it was wont to be adorn'd, His Royall Praerogatives, thoſe individu<g ref="char:EOLhyphen"/>all and unforfeitable Enſignes of Soveraignty.</p>
+            <p>The Sword they gave him, though it had a ſpeci<g ref="char:EOLhyphen"/>ous outſide, yet it ſeem'd rather of Wood than Steele, the Edge being blunted, by taking from him the Mili<g ref="char:EOLhyphen"/>tia, and depriving him of the power of the Sword, ei<g ref="char:EOLhyphen"/>ther for offence, by doing juſtice upon malefactors, or for defence againſt Forreigne Invaſion, or home-bred Rebellion.</p>
+            <p>Laſtly, the Scepter they put into his hand was but a Mock-Scepter, being diveſted of the Supreame Power, which is the very Eſſence, or <hi>Formalis ratio</hi> of Majeſtie; for by the Articles of <hi>Breda</hi> they had reſerved that Po<g ref="char:EOLhyphen"/>wer to themſelves, tying him up to act nothing with<g ref="char:EOLhyphen"/>out or contrary to the advice of Parliament and Aſſem<g ref="char:EOLhyphen"/>bly; nor to denie his Aſſent to any thing that ſhould be repreſented by them, or reſolv'd on in their Commit<g ref="char:EOLhyphen"/>tees of Kirke and State.</p>
+            <p>Thus had the Presbyterians muzled their Lion, and at this firſt ſtep into the Throne, throwne down his So<g ref="char:EOLhyphen"/>veraign Majeſties, had not the great God, <hi>by whom Kings
+<pb n="7" facs="tcp:37776:4" rendition="simple:additions"/>reigne,</hi> gratiouſly upheld his ſervant; and in a ſhort ſpace reſtor'd him to that height of Honour and Dignitie, which thoſe Varlets ſought to keep him from: For ſoon after his Coronation, the Nobilitie and Gentrie, for many years having been oppreſs'd by ſeverall Factions in their turns, for the future to prevent all Faction, and u<g ref="char:EOLhyphen"/>nite the whole Kingdome againſt the Common Enemy, they reſolve forthwith to reſtore His Majeſtie to all his juſt Praerogatives, and no longer to ſuffer Committees either of Kirke or State to Lord it over them: the jea<g ref="char:EOLhyphen"/>louſies of the two grand Factions of the Kingdome, the <hi>Hamiltonian,</hi> and <hi>Argylian</hi> gave life to this Reſolution; who not more ambitious of, than envious at each others greatneſſe, choſe, rather than ſubmit to the commands of their equalls or inferiours, to ſet up the King, and to yield obedience to one King, rather than many Kings; for which very cauſe, <hi>The Beaſts of the Forrest</hi> once <hi>made choyce of the Lyon for their King.</hi>
+            </p>
+            <p>By this means in the month of <hi>January</hi> that glorious <hi>Sun</hi> began to mount higher and higher in the <hi>Zodiack</hi> of Majeſtie and Soveraigntie; and quickly warm'd with its bright beams, the hearts of his languiſhing Subjects into the love of Loyaltie and Regall Government; for which they now praiſe God that had ſent them a King, under whoſe protection they might bee freed from the tyranny and oppreſſion of their fellow ſubjects.</p>
+            <p>But about the 5. of <hi>February</hi> this glorious <hi>Sun</hi> appea<g ref="char:EOLhyphen"/>red brighter and brighter, when that free Parliament began to ſit, which aſhamed longer to deprive their King of the libertie to uſe his Reaſon with a good Conſcience, admitted him to the power of his Negative Voice, and put him into the poſſeſſion of his juſt Rights, whilſt the
+<pb n="8" facs="tcp:37776:5" rendition="simple:additions"/>Kirke Aſſembly at the ſame time met at St. <hi>Andrew</hi> perplex themſelves with hot diſputes touching His Ma<g ref="char:EOLhyphen"/>jeſties Authoritie in Eccleſiaſticals, and other private quarrels of their owne, rather than endeavour to com<g ref="char:EOLhyphen"/>poſe differences, and ſubmit to the Kings ſupreame po<g ref="char:EOLhyphen"/>wer over all perſons, and in all Cauſes ſpirituall and temporall; His Majeſtie not much minding their Diſ<g ref="char:EOLhyphen"/>putes, nor they carefull to tender their due reſpects to him, till thoſe contentions ended, and that Aſſembly diſſolv'd ſuddenly, through the hot alarum given about this time by the Engliſh Forces, who ſent a ſtrong par<g ref="char:EOLhyphen"/>ty to croſſe the <hi>Forth</hi> above <hi>Sterling,</hi> whileſt the maine Body fac'd <hi>Sterling</hi> it ſelfe; and other parties were ſent by Sea to make ſome attempt upon <hi>Burnt Eland,</hi> and <hi>Fife-Neſſe.</hi> I ſhall not need to expreſſe the loſſes the E<g ref="char:EOLhyphen"/>nemy ſuſtain'd in thoſe ſeverall places: Though your <hi>Mercury's,</hi> whoſe brib'd breath dares publiſh naught but Victories, conceale the particulars; yet the Dutch Ga<g ref="char:EOLhyphen"/>zets talke of thouſands of the Engliſh kil'd, and of their diſorderly Retreat, and unſeaſonable mutiny of the Soul<g ref="char:EOLhyphen"/>diery for want of pay, and hard duty, which begat a de<g ref="char:EOLhyphen"/>bate, whether <hi>Fairfax</hi> his Counſell had not been more prudently follow'd, rather to ſtand upon defence, than invade a Countrey where they were to fight with two ſuch potent Enemies, as Hunger, and Cold.</p>
+            <p>Sir, I can aſſure you, the <hi>Scots,</hi> ſince their Kings Co<g ref="char:EOLhyphen"/>ronation, magnifie Gods providence, in bleſſing them wonderfully beyond their deſerts, aſwell in the diſcove<g ref="char:EOLhyphen"/>ry of ſome mens Treaſons againſt his Majeſties Perſon, and the Treachery of others that ſought to betray <hi>Ster<g ref="char:EOLhyphen"/>ling,</hi> and <hi>Brunt Eland</hi> into the Enemies hand; as alſo in repulſing Gen. <hi>Cromwels</hi> Forces, which have endeavou<g ref="char:EOLhyphen"/>red
+<pb n="9" facs="tcp:37776:5" rendition="simple:additions"/>often and by ſundry Stratagems to land men in <hi>Fife<g ref="char:punc">▪</g>
+               </hi> but chiefly for that great piece of providence, by ſen<g ref="char:EOLhyphen"/>ding in unexpectedly to their relief, 3 Engliſh Ships la<g ref="char:EOLhyphen"/>den with proviſions and Arms for the ſupply of the En<g ref="char:EOLhyphen"/>gliſh Army; and for the caſting away of foure En<g ref="char:EOLhyphen"/>gliſh Merchants Ships and their Convoy at the Towne of <hi>Are;</hi> And further, this you may take upon the aſſurance of an authentick witnes, that the Scots King himſelf, under his own hand very lately ſignified to his friends here, that he is in no inconſiderable condition, having already a very gallant Army of 36000. horſe and Foot well appointed. This news hath much encouraged the Engliſh Cavaliers in theſe parts, and ſtir'd them up to furniſh themſelves with all neceſſaries fit for his Ma<g ref="char:EOLhyphen"/>jeſties ſervice, inſomuch that about the end of <hi>February</hi> 12. ſayle of Ships, convoy'd by two men of War, went from the <hi>Brill</hi> in <hi>Holland</hi> towards the North of <hi>Scotland,</hi> ſtor'd with all ſorts of Proviſions, Arms and Ammuni<g ref="char:EOLhyphen"/>tion, many Volunteers, and good ſtore of Horſes.</p>
+            <p>I had like to forgot one obſervation worth your no<g ref="char:EOLhyphen"/>ting, that whileſt the King was under the tuition of the Scots Presbutery, they would not afford him the free<g ref="char:EOLhyphen"/>dome to ſpeak or write to any of his friends; all Let<g ref="char:EOLhyphen"/>ters either ſent by his Majeſtie or directed to him, they intercepted and opened: and the only uſe they made of his Royall Hand and Authoritie, tended ever to his diſ<g ref="char:EOLhyphen"/>honour, and ofttimes to the deſtruction of himſelfe and his party in the three Kingdomes; for proofe of this I ſhall call to witneſſe his Proclamations publiſht in <hi>Au<g ref="char:EOLhyphen"/>gust</hi> laſt; his peremptory command for disbanding <hi>Middleton</hi> and his friends in the North, his declaring that party in <hi>Ireland</hi> Traytors, who fought daily againſt
+<pb n="10" facs="tcp:37776:6" rendition="simple:additions"/>the State of <hi>England;</hi> his revoking the Commiſſions granted to the Marqueſſe of <hi>Ormond,</hi> Lord <hi>Inchequeen,</hi> and many others of that Nation, that were to act by Sea and Land; and laſtly, his recalling all Commiſſions granted to divers of the Engliſh Nobilitie and Gentrie; in order to ſome action and deſigns then plotted againſt the Kingdome of <hi>England:</hi> all which is ſufficient to ſhew the Presbyterian is no <hi>Changeling;</hi> Kings muſt be their Subjects and they themſelves Kings, or elſe there is no living amongſt them. And that you may ſee how much the Kingdome of <hi>Scotland</hi> hath groan'd under the Rigidneſſe of Presbytery, I ſhall acquaint you with a few Grieveances, which of late have been repreſented to the King and his Counſell, by the Commons, with an earneſt deſire, and hope of redreſſe.</p>
+            <list>
+               <head>Grievances againſt the <hi>Scots</hi> Presbytery.</head>
+               <item>1. <hi>Their Uſurping a power over all ſecular and Military Affairs; for if by the major part in Parliament a Law be en<g ref="char:EOLhyphen"/>acted contrary to their mindes, they preſently excommunicate the Members for ſitting and Voting in that Parliament: for this very cauſe Duke</hi> Hamilton, <hi>Earle of</hi> Lyndſay, <hi>Earle of</hi> Dumfernling, Lauderdaile, <hi>and divers others of the Nobili<g ref="char:EOLhyphen"/>ty were forc'd to doe pennance: and if any man elſe yield obe<g ref="char:EOLhyphen"/>dience to ſuch ſtatute enacted without their approbation, he is immediately brought to the Stoole of Repentance; witneſſe all thoſe that levied Horſe or money for the uſe of Duke</hi> Hamil<g ref="char:EOLhyphen"/>tons <hi>Army, or did ſerve under his command.</hi>
+               </item>
+               <item>2. <hi>Their taking cognizance of things done in another King<g ref="char:EOLhyphen"/>dome, and beyond Seas: an honeſt man was forced to doe pen<g ref="char:EOLhyphen"/>nance for drinking in a womans houſe at</hi> Campheere <hi>in</hi> Zea<g ref="char:EOLhyphen"/>land, <hi>who had been Excommunicated formerly by the Presby<g ref="char:EOLhyphen"/>tery
+<pb n="11" facs="tcp:37776:6" rendition="simple:additions"/>of</hi> Aberdeen; <hi>likewiſe many others have been Excommu<g ref="char:EOLhyphen"/>nicated, and conſtrain'd to doe penance for bearing Armes in</hi> England <hi>under Duke</hi> Hamilton.</item>
+               <item>3. <hi>Their defaming of Perſons of Honour, and other parti<g ref="char:EOLhyphen"/>cular Perſons in their Pulpits; as alſo their publiſhing defa<g ref="char:EOLhyphen"/>matory Declarations, to the ſcandall of Religion, and contempt of Monarchy.</hi>
+               </item>
+               <item>4. <hi>Their ſecret ſubornation of children and ſervants to ac<g ref="char:EOLhyphen"/>cuſe and betray their Parents and Masters for words spoken in their Bed-chambers and private houſes; there is ſcarce a conſide<g ref="char:EOLhyphen"/>rable Family in all the Kingdome, where they have not by one means or other ſet a spy upon them.</hi>
+               </item>
+               <item>5. <hi>Their wreſting out of the hands of the Nobility and Gen<g ref="char:EOLhyphen"/>try the Patronages of all Eccleſiaſticall Livings, whereby they have occaſion'd great corruption and diviſions among the Cler<g ref="char:EOLhyphen"/>gy, inſomuch that in ſome places Churches have lyen voyd with<g ref="char:EOLhyphen"/>out any Minister two or three years, to the eternall prejudice of the peoples ſouls.</hi>
+               </item>
+               <item>6. <hi>Their cruell interdicting of Churches; in one County,</hi> Atholl <hi>by name,</hi> 5 <hi>Churches were interdicted</hi> 3 <hi>years together, no Miniſter ſuffered to Preach or pray amongst the people all that time, nor to adminiſter Sacraments, whereby many chil<g ref="char:EOLhyphen"/>dren dyed unbaptiſed.</hi>
+               </item>
+               <item>7. <hi>Their uſurping an Arbitrary power over the ſouls of men, every Miniſter taking upon him to debar whom he pleaſe, even the beſt man of the Pariſh from the Sacrament, and their deny<g ref="char:EOLhyphen"/>ing Baptiſme to the Children of Malignants.</hi>
+               </item>
+               <item>8. <hi>Their covetous increaſing their owne ſtipends, in all Cor<g ref="char:EOLhyphen"/>porations, procuring the State to lay an impoſition of</hi> 3 <hi>d. Ex<g ref="char:EOLhyphen"/>ciſe upon every Scotch pinte of Wine to be payd to the Miniſter of the Pariſh, making every houſe to pay the</hi> 12. <hi>penny, accor<g ref="char:EOLhyphen"/>ding to the utmoſt rack'd Rent, which is</hi> 20 <hi>d.</hi> per <hi>pound.</hi>
+               </item>
+            </list>
+            <pb n="12" facs="tcp:37776:7"/>
+            <p>Sir, All the effect theſe grievances produced at that conjuncture of time, was, That the King and His Councell thought it not fit to make the breach wider, or increaſe Diviſions amongſt His Subjects, onely for the preſent the Clergy were commanded not to intermed<g ref="char:EOLhyphen"/>dle in Civill or Military Affaires; but to preach to the people obe<g ref="char:EOLhyphen"/>dience to His Majeſties Authority, and Unity and Peace one amongſt another: Yet in the opinion of wiſe men, if things ſhould ſettle that way, the Presbytery of SCOTLAND would be refined and made conformable to theſe in HOLLAND: For as your Refor<g ref="char:EOLhyphen"/>mers did in the beginning call for a Moderate Epiſcopacy; ſo the whole cry of the Scots Nation is, for a Moderate Presbytery, which in time will end in JOHN KNOX his Government, whoſe deſigne was to place Superintendents in every County: The Nobility and Gentry of that Kingdome, as well as yours, cannot endure to heare of the reſtoring of Epiſcopacy, for feare their Sacrilegious Titles to the Churches Lands ſhould once more be called in queſtion.</p>
+            <p>As I was cloſing my Letter, this certaine Intelligence I received, That the Scots King, having ſecured all the paſſes and landing pla<g ref="char:EOLhyphen"/>ces in FIFE, and quelied the CLASSIS of STERLING, who de<g ref="char:EOLhyphen"/>clared againſt Him and His Party, is lately gone to ſuppreſſe the like Faction which the CLASSIS of ABERDEEN hath countenanced to the great prejudice and ſafety of that part of the Kingdome. In His abſence Duke HAMILTON commands the Southerne Army, who endeavours dayly to try his friends in levying Forces in the Weſt of SCOTLAND. Here we expect ſome Scotch Nobleman, as an Ambaſſader from the Scotch King for that Kingdome, and the Report is, the Lord GERARD hath a Commiſſion ſent him to bee His Embaſſador for the Kingdome of ENGLAND. I have no more roome to write, but onely to ſubſcribe my ſelfe,</p>
+            <closer>
+               <signed>Your most humble ſervant.</signed>
+               <dateline>
+                  <hi>From</hi> Rotterdam <date>10/1. <hi>March.</hi> 1650.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:37776:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
